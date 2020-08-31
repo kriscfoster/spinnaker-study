@@ -61,5 +61,3 @@ spec:
                         backend:
                             serviceName: kris-solo-microservice-service
                             servicePort: 30201
-
-
